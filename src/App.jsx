@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from "react";
 
-const API = "http://localhost:3000/api";
+const API = "https://pulsemail-server.onrender.com/api";
 
 // ─── TEMPLATES DATA ───
 const EMAIL_TEMPLATES = [
