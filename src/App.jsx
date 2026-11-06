@@ -248,7 +248,7 @@ function SendMailPage({ user }) {
 
   const [form, setForm] = useState({
     senderName: user?.name || "PulseMail Support",
-    fromEmail: "hello@mailingsupport.online",
+    fromEmail: "hello@mailingsuppo88rt.online",
     to: "",
     cc: "",
     bcc: "",
